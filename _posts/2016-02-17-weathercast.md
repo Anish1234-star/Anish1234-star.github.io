@@ -1,13 +1,13 @@
 ---
 layout: inner
 position: left
-title: 'Weathercast'
-date: 2016-02-20 15:56:00
+title: 'SoA Detector'
+date: 2026-09-20 12:00:00
 categories: development
-tags: JavaScript AngularJS API Sass
-featured_image: '/img/posts/02_weathercast-1130x864-2x.png'
-project_link: 'http://github.com/jamigibbs/weathercast'
+tags: Python LLMs PDF Healthcare
+featured_image: '/img/posts/soa-detector.png'
+project_link: 'https://github.com/Anish1234-star'
 button_icon: 'github'
 button_text: 'Visit Project'
-lead_text: 'A simple weather forecast app for your favorite city.'
+lead_text: 'An LLM-powered app that finds Schedule of Activities tables in clinical trial protocol PDFs.'
 ---
